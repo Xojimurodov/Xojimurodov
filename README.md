@@ -1,7 +1,8 @@
 ## I'm Xojimurodov Diyorbek
 
-> I'm gaining experience a backend develop.
-> In my free time I like to solve problems on hackerrank and LeetCode.
+- I'm gaining experience a backend develop.
+
+- In my free time I like to solve problems on hackerrank and LeetCode.
 
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0ABA?style=for-the-badge&logo-dev.to&logoColor=white)](https://dev.to/xojimurodov)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Xoj1murodov9)
